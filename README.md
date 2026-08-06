@@ -3,10 +3,9 @@
 **[View the live pack →](https://atoms315.github.io/candidate-pack-microsites/)**
 
 A candidate pack for a single senior engineering role, designed three different
-ways — to find out which version a candidate would actually finish reading.
+ways to find out which version a candidate would actually finish reading.
 
-Atomic Recruiting is an invented company and the role is invented with it. The
-company isn't the point. The argument is.
+Atomic Recruiting is my LLC and the role is invented for it. 
 
 ---
 
@@ -25,8 +24,7 @@ ones self-select out before you ever speak to them.
 
 ## What all three directions commit to
 
-- The salary band published up front — £115,000–£142,000, level E5, stated as
-  non-negotiable with the reason why.
+- The salary band published up front 
 - Every interview stage named, timed, attributed to a person, and paired with
   **what we look for** at that stage.
 - A section headed **Honest caveats**: the legacy codebase, the refactors that
